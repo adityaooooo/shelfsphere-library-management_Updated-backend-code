@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 ShelfSphere Library Management System API
 
 Backend REST API for the **ShelfSphere - Online Library Management System**.
@@ -47,3 +48,6 @@ src/
 
 
 
+=======
+# shelfsphere-library-management_Updated-backend-code
+>>>>>>> 9df2c67cb6c0c8e78176ca0b758cd52382c0735d
